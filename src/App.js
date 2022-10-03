@@ -19,7 +19,7 @@ export default function App() {
       setTimeout(
         () =>
           redirect(
-            "https://play.google.com/store/apps/details?id=com.whatsapp"
+            "https://play.google.com/store/apps/details?id=com.jhumoradio.jhumo"
           ),
         500
       );
