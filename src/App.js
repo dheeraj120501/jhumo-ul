@@ -27,7 +27,7 @@ export default function App() {
       setTimeout(
         () =>
           redirect(
-            "https://apps.apple.com/in/app/whatsapp-messenger/id310633997"
+            "https://apps.apple.com/in/app/jhumo-radio/id6443639299"
           ),
         500
       );
